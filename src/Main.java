@@ -6,6 +6,7 @@ public class Main {
         for (char phraseArray : phrase.toCharArray()) {
             System.out.println(phraseArray);
         }
+        //adding some random code i guess???
         char[] phraseArray = phrase.toCharArray();
 
         for (int i = phrase.length()-1; i >= 0 ; i--){
